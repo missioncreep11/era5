@@ -1,0 +1,12 @@
+# Large data files — do not commit
+*.nc
+era5_daily_data/
+era5_airsea_data/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
