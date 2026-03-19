@@ -1,3 +1,6 @@
+# Notebooks to exclude
+CMEMS_Variables_Timeseries.ipynb
+
 # Large data files — do not commit
 *.nc
 era5_daily_data/
