@@ -5,6 +5,10 @@ CMEMS_Variables_Timeseries.ipynb
 *.nc
 era5_daily_data/
 era5_airsea_data/
+era5_bob_ssrd/
+
+# Large generated outputs
+figs/*.gif
 
 # Python
 __pycache__/
